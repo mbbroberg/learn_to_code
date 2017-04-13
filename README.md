@@ -4,7 +4,7 @@
 ## Table of contents
 [**SEE GITHUB PAGE VIEW**](http://ashleymcnamara.github.io/learn_to_code/)
 - [Introduction](#introduction)
-    - [Goals](#Goals)
+    - [Goals](#goals)
     - [Where do I start?](#where-do-i-start)
     - [How this page is organized](#how-this-page-is-organized)
     - [Which resource should I pick?](#which-resource-should-i-pick)
